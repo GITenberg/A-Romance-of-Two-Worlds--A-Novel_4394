@@ -1,5 +1,8 @@
 _repo: A-Romance-of-Two-Worlds--A-Novel_4394
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Corelli, Marie
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Marie_Corelli
 description: "A Romance of Two Worlds is Marie Corelli's first novel, published in\
   \ 1886.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4394#A-Romance-of-Two-Worlds--A-Novel
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
 identifiers:
